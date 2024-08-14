@@ -1,5 +1,4 @@
 Air Canvas - Hand Gesture Drawing Application
- 
 Overview
 Air Canvas is a Python-based application that allows users to draw on a virtual canvas using hand gestures captured through a webcam. Leveraging the power of MediaPipe for hand tracking and OpenCV for image processing, this app provides an intuitive interface for gesture-based drawing.
 
@@ -16,22 +15,18 @@ Web Integration: Streamlit provides a simple way to run the app in a web environ
 Installation
 To run this project locally, follow these steps:
 
-Clone the Repository:
-
+1. Clone the Repository:
 bash
 Copy code
 git clone https://github.com/P-Sreeshanth/air-canvas.git
 cd air-canvas
-Install Dependencies:
+2. Install Dependencies:
 Ensure you have Python 3.8+ installed. Then, install the required packages:
 
 bash
 Copy code
 pip install -r requirements.txt
-Run the Application:
-
-
-
+3. Run the Application:
 bash
 Copy code
 streamlit run ac.py
@@ -45,9 +40,18 @@ Contributing
 If you want to contribute to this project:
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
+Create a new branch:
+bash
+Copy code
+git checkout -b feature-branch
+Make your changes and commit:
+bash
+Copy code
+git commit -m 'Add new feature'
+Push to the branch:
+bash
+Copy code
+git push origin feature-branch
 Open a Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
