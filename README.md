@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/air-canvas.git
+git clone https://github.com/P-Sreeshanth/air-canvas.git
 cd air-canvas
 Install Dependencies:
 Ensure you have Python 3.8+ installed. Then, install the required packages:
